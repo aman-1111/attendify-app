@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attendify - Attendance App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Attendify</h1>
+        <div class="main-content">
+            <div class="left-panel">
+                <h2>Students</h2>
+                <div class="user-list" id="userList"></div>
+                <div class="button-group">
+                    <button class="btn glow" onclick="addUser()">Add User</button>
+                    <button class="btn glow" onclick="clearAttendance()">Clear All</button>
+                </div>
+            </div>
+            <div class="right-panel">
+                <div class="stats">
+                    <h3>Attendance Stats</h3>
+                    <div class="stat-circle" id="presentCircle">
+                        <span id="presentCount">0</span>
+                        <p>Present</p>
+                    </div>
+                    <div class="stat-circle" id="absentCircle">
+                        <span id="absentCount">0</span>
+                        <p>Absent</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>Created on April 08, 2025 by Aman Chaurasia</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
