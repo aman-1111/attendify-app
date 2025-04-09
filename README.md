@@ -10,6 +10,10 @@ A clean and responsive To-Do List web application built using HTML, CSS, and Jav
 - 💾 Tasks saved in browser's local storage
 - 🖥️ Responsive design with smooth UI/UX
 
+## 🌐 Live Demo
+
+🔗 [Click here to view the live app]((https://amanchaurasia-todolist-app.netlify.app/))
+
 
 ## 🛠️ Tech Stack
 
