@@ -12,7 +12,7 @@ A clean and responsive To-Do List web application built using HTML, CSS, and Jav
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the live app]([https://amanchaurasia-todolist-app.netlify.app/])
+🔗 [Click here to view the live app](https://amanchaurasia-todolist-app.netlify.app/)
 
 
 ## 🛠️ Tech Stack
